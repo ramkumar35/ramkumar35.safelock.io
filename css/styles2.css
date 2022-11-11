@@ -66,7 +66,7 @@ body{
   font-family: 'Mukta', sans-serif;
 	height:100vh;
 	min-height:550px;
-	background-image:url(/images/bg2.jpg);
+	background-image:url(../images/bg2.jpg);
 
 	background-size:cover;
 	background-position:center;

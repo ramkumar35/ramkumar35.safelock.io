@@ -9,7 +9,7 @@
 body{
   background: #81c644;
   font-family: 'Josefin Sans', sans-serif;
-  background-image:url(/images/bg2.jpg);
+  background-image:url(../images/bg2.jpg);
 }
 
 .wrapper{
