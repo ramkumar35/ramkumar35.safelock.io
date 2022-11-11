@@ -1,0 +1,36 @@
+body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: pink;  
+    background-image: url(/images/bg2.jpg) ;
+    background-size: cover;
+    height: 100vh;
+  
+  }  
+  
+   
+   input[type=text], input[type=password] {   
+          width: 25%;   
+          margin: 8px 0;  
+          padding: 12px 20px;   
+          display: inline-block;   
+          border: 2px solid green;   
+          box-sizing: border-box;   
+      }  
+
+  label{
+    color: #c5ecfd;
+  }
+  h1{
+    color: #c5ecfd;
+    justify-content: center;
+  }
+  input[type=submit] {
+    background-color:darkorange;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+          
+       
